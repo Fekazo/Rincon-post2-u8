@@ -1,0 +1,2 @@
+JMH S 26 cache.bench.CacheBenchmark S 58 cache.bench.jmh_generated.CacheBenchmark_withCache_jmhTest S 9 withCache S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E M 1 9 cacheSize 3 8 xAAMAADA 16 xAAMAADAwAA===== 16 xAAMAADAwAAMAA== U 12 MILLISECONDS E E 
+JMH S 26 cache.bench.CacheBenchmark S 61 cache.bench.jmh_generated.CacheBenchmark_withoutCache_jmhTest S 12 withoutCache S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E M 1 9 cacheSize 3 8 xAAMAADA 16 xAAMAADAwAA===== 16 xAAMAADAwAAMAA== U 12 MILLISECONDS E E 
